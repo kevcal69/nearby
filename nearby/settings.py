@@ -26,7 +26,7 @@ SECRET_KEY = 'ws9mc@2r5+6d=9)7mei2n1=0%$(4#gxwz)wz+07ft03m1k!(^%'
 DEBUG = True
 
 ALLOWED_HOSTS = [
-    '192.168.254.53'
+    # add api here
 ]
 
 
